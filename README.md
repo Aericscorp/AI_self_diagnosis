@@ -1,5 +1,5 @@
 # AI_self_diagnosis
-AI-powered healthcare apps like symptom checkers or chatbots have the chance to empower patients with relevant knowledge based on the reliably aggregated information. 
+AI-powered healthcare apps have the chance to empower patients with relevant knowledge based on the reliably aggregated information. 
 
 ## References
 Only in the U.S., 12 million adults seeking medical care are being misdiagnosed every year. AI can also support doctors and medical practitioners with gathering valuable data on non-specific symptoms and hence contribute to research and even better medical assessment. No doctor can have substantial knowledge of all diseases circulating around, and this is where AI can come in handy, and contribute to giving the right diagnosis. 
